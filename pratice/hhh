@@ -1,0 +1,25 @@
+<div class="bag-page">
+            <div class="bag-items-container">
+                <div class="bag-item-container">
+                    <div class="item-left-part">
+                        <img class="bag-item-img" src="offer2.webp">
+                    </div>
+                    <div class="item-right-part">
+                        <div class="company">ADDIDAS</div>
+                        <div class="item-name">CricketJersey</div>
+                        <div class="price-container">
+                            <span class="current-price">Rs999</span><br>
+                            <span class="original-price">Rs999</span><br>
+                            <span class="discount-percentage">(0%OFF)</span>
+                        </div>
+                        <div class="return-period">
+                            <span class="return-period-days">14DaysreturnAvailable</span>
+                        </div>
+                        <div class="delivery-details">
+                            <span class="delivery-details-days">Deleveryby10Oct2024</span>
+                        </div>
+                        <div class="remove-from-cart">X</div>
+                    </div>
+                </div>
+            </div>
+        </div>
